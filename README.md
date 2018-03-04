@@ -8,3 +8,4 @@ The file `RGZGtargets.csv` has the following Columns:
  - **RA**: J2000.0 Right Ascension, in decimal degrees
  - **Dec**: J2000.0 Declination, in decimal degrees
  - **SDSS_ObjId**: SDSS unique Object identification number (if available), either DR14 (19 digits) or DR8 (18 digits)
+ - **flag1**: 0 if selected for inclusion in the Hubble gap-filler program (15445), 1 if not
