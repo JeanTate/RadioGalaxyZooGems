@@ -1,7 +1,7 @@
 # RadioGalaxyZooGems
 GitHub repository for the Zooniverse Radio GalaxyZooGems (RGZG) Project
 
-The file `RGZGtargets.csv` has the following Columns:
+The file `RGZGtargets_2.csv` has the following Columns:
  - **SubjectID**: the ID of the Subject in RGZG
  - **Set**: the set the Subject is in, e.g. SDRAGN01
  - **Jname**: target galaxy's name, as J2000.0 coordinates (hhmmss.ss±ddmmss.s)
